@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764177937703",
+    "firebase_url": "https://fir-signup-17684.firebaseio.com",
+    "project_id": "fir-signup-17684",
+    "storage_bucket": "fir-signup-17684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764177937703:android:2ec066378463bb96",
+        "android_client_info": {
+          "package_name": "com.harshillogin.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764177937703-18d3ai83u7orfa7amuv26ve1ctospsmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWaW1zj6DRNGJrfahVWRyW41OkNlEEQeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

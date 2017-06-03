@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FirebaseAuthApp</string>
+    <string name="name">Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="SignIn">Already Registered? Sign In</string>
+    <string name="register">Register</string>
+    <string name="Email">Enter Your Email</string>
+    <string name="SignUp_Email">Enter Your Email</string>
+    <string name="Login_Email">Enter Valid Email Id</string>
+    <string name="Login_password">Enter Your Password</string>
+    <string name="Login_register">Login</string>
+    <string name="SignUp">Not Registered ? Sign Up Here</string>
+    <string name="login_activity">Login Activity</string>
+    <string name="ForgotPassword">Forgot Password</string>
+    <string name="fResetpassword">Reset Password</string>
+    <string name="fEmailId">Enter your registered email Id</string>
+    <string name="femail_id">Email Id</string>
+    <string name="fforgot_password">Forgot Password</string>
+    <string name="fWe_just_needs_your_registered_email_id_to_send_you_passwor_dreset_instructions">We just needs your Registered Email Id to send you passwor dReset instructions</string>
+    <string name="fBtnBack"><![CDATA[<<Back]]></string>
+    <string name="Snew_user_registration">New User Registration</string>
+    <string name="lblWelcomeScreen">Welcome to this Demo App</string>
+    <string name="Wlogout">Log out</string>
+    <string name="wemail_id">EmailId</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
